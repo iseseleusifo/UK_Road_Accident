@@ -4,7 +4,7 @@ According to statistics from Brake Road Safety Charity, every year, more than 1.
 Using road accident data from all boroughs in England, United Kingdom for 2012 and 2022, I will perform Exploratory Data Analysis (EDA) using Microsoft Excel to gain key insights for data-driven road safety decisions.
 
 Microsoft Excel concepts used in this project include:
-•	Data cleaning and transformation
-•	Data Aggregation using pivot tables and formulas
-•	Data visualization
+-	Data cleaning and transformation
+-	Data Aggregation using pivot tables and formulas
+-	Data visualization
 
