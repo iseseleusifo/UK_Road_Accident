@@ -8,5 +8,5 @@ Microsoft Excel concepts used in this project include:
 -	Data analysis using pivot tables and formulas
 -	Data visualization
 
-/assets/images/road-accident.png
+!(/assets/images/road-accident.png)
 
