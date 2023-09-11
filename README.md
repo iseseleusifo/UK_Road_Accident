@@ -8,5 +8,6 @@ Microsoft Excel concepts used in this project include:
 -	Data analysis using pivot tables and formulas
 -	Data visualization
 
-!(road_accident.png)
+
+![NicePng_car-insurance-icon-png_8016962](https://github.com/iseseleusifo/UK_Road_Accident/assets/35133915/07763cb0-fd5c-4777-9162-b99e5bea5cac)
 
