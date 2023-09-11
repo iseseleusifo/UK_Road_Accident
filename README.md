@@ -9,4 +9,4 @@ Microsoft Excel concepts used in this project include:
 -	Data visualization
 
 
-<img width="400" height="400" alt="Screenshot 2023-09-11 030846" src="https://github.com/iseseleusifo/UK_Road_Accident/blob/c92f3b936a34dd72485fad25584c71f7ec7064f9/road_accident.png">
+<img width="400" height="300" alt="Screenshot 2023-09-11 030846" src="https://github.com/iseseleusifo/UK_Road_Accident/blob/c92f3b936a34dd72485fad25584c71f7ec7064f9/road_accident.png">
