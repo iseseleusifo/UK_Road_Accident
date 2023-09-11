@@ -8,5 +8,5 @@ Microsoft Excel concepts used in this project include:
 -	Data analysis using pivot tables and formulas
 -	Data visualization
 
-!(road-accident.png)
+![Road accident](/relative/path/to/road-accident.png?raw=true "Optional Title")
 
