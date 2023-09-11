@@ -10,4 +10,4 @@ Microsoft Excel concepts used in this project include:
 
 <img width="270" alt="Screenshot 2023-09-11 030846" src="https://github.com/iseseleusifo/UK_Road_Accident/assets/35133915/f8a764e4-0df6-4638-9e0f-add9ad809108">
 
-
+<img width="300" alt="Screenshot 2023-09-11 030846" src="https://github.com/iseseleusifo/UK_Road_Accident/blob/c92f3b936a34dd72485fad25584c71f7ec7064f9/road_accident.png">
